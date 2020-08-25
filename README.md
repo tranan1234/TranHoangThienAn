@@ -1,4 +1,6 @@
 ## Personal information:
+![1](https://user-images.githubusercontent.com/70197928/91165392-bf110e80-e6fa-11ea-8339-d70fac9808c9.jpg)
+
  ## Name: Tran Hoang Thien An
  ## Student Id: s3594462
  ## Email address: s3594462@rmit.edu.vn
