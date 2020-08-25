@@ -1,9 +1,9 @@
 ## Personal information:
 ![1](https://user-images.githubusercontent.com/70197928/91165392-bf110e80-e6fa-11ea-8339-d70fac9808c9.jpg)
 
- ## Name: Tran Hoang Thien An
- ## Student Id: s3594462
- ## Email address: s3594462@rmit.edu.vn
+ ## Name: Tran Hoang Thien An.
+ ## Student Id: s3594462.
+ ## Email address: s3594462@rmit.edu.vn.
  ## Background information: 
 I was born in Dong Nai province in VietNam, I was raised as a teacher to follow my parent’s business so my traditional and cultural are quite strict and critical to me. With 12 years of education as a good student I have learned 3 different languages such as japanese, english and chinese. My dream is not only related to IT but also accessible to the human revolution. I personally think I am an energetic and creative pupil, I am an extroverted person so i think about everyone else above me which is quite fit with my dream to create a new world for human revolution. My casual favourite sport is about video games, to me it is an official sports better than esport, my hobby related to IT because sometime I tried to hack the game by coding and in order to do that I spend half of my time to research and enlighten my mind with complicated code.
 ## Interest in IT:
